@@ -1,6 +1,6 @@
-# :ocean: **Afflux VR Game**
+# :goggles: **Unity VR Demos**
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Afflux-VR-Game/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Unity-VR-Demos/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,37 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :ocean: VR Puzzle Game that is currently under construction :construction:
-
-## :joystick: Game Mechanics
-
-- ### :goggles: VR Mechanics
-
-  - #### Head movement :six:
-
-  - #### Hand movement :six:
-
-  - #### Finger manipulation :five:
-
-- ### :sweat_drops: Unharnessed Flux Mechanics
-
-  - #### Left hand flow :one:
-
-  - #### Time direction change :one:
-
-  - #### Space direction change :three:
-
-- ### :droplet: Harnessed Flux Mechanics
-
-  - #### Head flow :one:
-
-  - #### Right hand flow :one:
-
-  - #### Intensity decay :one:
-
-  - #### Chirality change :one:
-
-  - #### Space orientation change :two:
+## :goggles: Oculus Quest demos made with Unity.
 
 ## :bowing_man: Reference Projects
 
@@ -81,13 +51,13 @@
 
 <!-- MARKDOWN LINKS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Afflux-VR-Game.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Afflux-VR-Game/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Afflux-VR-Game.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Afflux-VR-Game/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Afflux-VR-Game.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Afflux-VR-Game/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Afflux-VR-Game.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Afflux-VR-Game/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Afflux-VR-Game.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Afflux-VR-Game/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Unity-VR-Demos.svg?style=for-the-badge
+[contributors-url]: https://github.com/tensorush/Unity-VR-Demos/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/tensorush/Unity-VR-Demos.svg?style=for-the-badge
+[issues-url]: https://github.com/tensorush/Unity-VR-Demos/issues
+[stars-shield]: https://img.shields.io/github/stars/tensorush/Unity-VR-Demos.svg?style=for-the-badge
+[stars-url]: https://github.com/tensorush/Unity-VR-Demos/stargazers
+[forks-shield]: https://img.shields.io/github/forks/tensorush/Unity-VR-Demos.svg?style=for-the-badge
+[forks-url]: https://github.com/tensorush/Unity-VR-Demos/network/members
+[license-shield]: https://img.shields.io/github/license/tensorush/Unity-VR-Demos.svg?style=for-the-badge
+[license-url]: https://github.com/tensorush/Unity-VR-Demos/blob/master/LICENSE.md
