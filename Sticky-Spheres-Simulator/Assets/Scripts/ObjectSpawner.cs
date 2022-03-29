@@ -7,11 +7,10 @@ public class ObjectSpawner : MonoBehaviour
 {
     [SerializeField]
     GameObject m_PrefabToSpawn;
-
     XRSocketInteractor m_SocketInteractor;
 
-    const float k_Min = 0.05f;
-    const float k_Max = 1.2f;
+    const float minSphereSize = 0.05f;
+    const float maxSphereSize = 1.25f;
 
     void OnEnable()
     {
@@ -21,15 +20,14 @@ public class ObjectSpawner : MonoBehaviour
 
     void ObjectGrabbed(XRBaseInteractable interactable)
     {
-        // object grabbed, spawn another one and set it's size to a random scale between k_Min and k_Max
+        // Spawn another sphere of random size
         GameObject newSphere = Instantiate(m_PrefabToSpawn, transform.position, Quaternion.identity);
         newSphere.transform.localScale = GetRandomScale();
-
     }
 
     Vector3 GetRandomScale()
     {
-        float val = UnityEngine.Random.Range(k_Min, k_Max);
-        return new Vector3(val, val, val);
+        float scale = UnityEngine.Random.Range(minSphereSize, maxSphereSize);
+        return new Vector3(scale, scale, scale);
     }
 }
