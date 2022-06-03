@@ -1,5 +1,7 @@
 # :goggles: **Unity VR Demos**
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Unity-VR-Demos/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
@@ -7,13 +9,11 @@
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
-
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_18_sphereimpacts.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
