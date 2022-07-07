@@ -1,8 +1,8 @@
-# :goggles: **Unity VR Demos**
+# :goggles: :joystick: **Unity XR Demos**
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Unity-VR-Demos/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Unity-XR-Demos/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :goggles: Oculus Quest demos made with Unity.
+## :goggles: VR and AR demos made with Unity.
 
 ## :bowing_man: Reference Projects
 
